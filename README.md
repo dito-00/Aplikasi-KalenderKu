@@ -6,7 +6,7 @@ Disusun untuk memenuhi **Tugas UAS Pemrograman Mobile 1**.
 ## 👤 Profil Mahasiswa
 * **Nama** : Ryanda J.J
 * **NIM** : 312410329
-* **Kelas**: [Isi Kelas Anda]
+* **Kelas**: TI.24.A2
 
 ---
 
